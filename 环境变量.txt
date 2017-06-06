@@ -1,6 +1,0 @@
-Java_home
-Jdk¸ùÄ¿Â¼
-classpath
-.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;
-path
-%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
